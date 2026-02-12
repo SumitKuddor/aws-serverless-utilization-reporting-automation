@@ -1,2 +1,6 @@
-# aws-serverless-utilization-reporting-automation
-Fully serverless AWS automation to collect EC2 &amp; RDS utilization metrics and generate daily, weekly, and monthly reports using Lambda, Step Functions, CloudWatch, and S3.
+**🚀 AWS Utilization Reporting Automation
+**
+Fully Serverless AWS Automation for EC2 & RDS Utilization Reporting
+
+This project automates AWS infrastructure monitoring and reporting using AWS Lambda, Step Functions, CloudWatch, and Amazon S3.
+It generates daily, weekly, and monthly utilization reports in Word & Excel formats, including CPU, Memory, Disk, and RDS performance metrics.

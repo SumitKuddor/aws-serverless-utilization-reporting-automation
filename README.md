@@ -1,5 +1,4 @@
-**🚀 AWS Utilization Reporting Automation
-**
+🚀 AWS Utilization Reporting Automation
 Fully Serverless AWS Automation for EC2 & RDS Utilization Reporting
 
 This project automates AWS infrastructure monitoring and reporting using AWS Lambda, Step Functions, CloudWatch, and Amazon S3.
